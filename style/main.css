@@ -15,7 +15,7 @@ body {
 }
 
 .title { 
-    color: darkslateblue;
+    color:darkgreen;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: normal;
 }
@@ -33,4 +33,8 @@ body {
 .title-secondary {
     font-size: 1.5rem;
     color: sandybrown;
+    padding:.5rem;
+    border-width: 1px 0;
+    border-color:sandybrown;
+    border-style: solid;
 }
